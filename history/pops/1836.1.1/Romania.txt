@@ -5,7 +5,7 @@
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 1250
+        size = 825
     }
 
     bureaucrats = {
@@ -17,19 +17,19 @@
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 6500
+        size = 4290
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 1350
+        size = 891
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 76900
+        size = 50754
     }
 
     serfs = {
@@ -169,25 +169,49 @@
         religion = catholic
         size = 5425
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 467
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 2431
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 504
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 28760
+    }
 }
 #Szatmare (444000/111000 POPS) #part of Romania today
 651 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 500
+        size = 330
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 2500
+        size = 1650
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 550
+        size = 363
     }
 
     serfs = {
@@ -321,27 +345,47 @@
         religion = jewish
         size = 4150
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 187
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 935
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 205
+    }
 }
 #Banat-Bacska Region (1240000) #See Serbia.txt and Croatia.txt for balance of region
 #under the rule of Austria in 1836
 #Temesvar (940000/235000 POPS) #part of Romania today
+######Jews
+########
 652 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 275
+        size = 181
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1400
+        size = 924
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 300
+        size = 198
     }
 
     serfs = {
@@ -517,26 +561,26 @@
         religion = orthodox
         size = 41700
     }
-	
-	artisans = {
+
+    artisans = {
         culture = french
         religion = catholic
         size = 200
     }
-	
-	farmers = {
+
+    farmers = {
         culture = french
         religion = catholic
         size = 2900
     }
-	
-	serfs = {
+
+    serfs = {
         culture = french
         religion = catholic
         size = 2000
     }
-	
-	clergymen = {
+
+    clergymen = {
         culture = ukrainian
         religion = orthodox
         size = 20
@@ -559,8 +603,8 @@
         religion = orthodox
         size = 1560
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = slovak
         religion = catholic
         size = 50
@@ -572,7 +616,6 @@
         size = 425
     }
 
-    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -602,7 +645,24 @@
         religion = jewish
         size = 700
     }
-    ########
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 103
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 523
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 112
+    }
 }
 #Orsova (376000/94000 POPS) #part of Romania today
 653 = {
@@ -633,25 +693,25 @@
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 600
+        size = 396
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 3000
+        size = 1980
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 600
+        size = 396
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 34000
+        size = 22440
     }
 
     serfs = {
@@ -725,8 +785,8 @@
         religion = catholic
         size = 1670
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = slovak
         religion = catholic
         size = 70
@@ -737,8 +797,8 @@
         religion = catholic
         size = 1625
     }
-		
-	clergymen = {
+
+    clergymen = {
         culture = ukrainian
         religion = orthodox
         size = 30
@@ -761,11 +821,35 @@
         religion = orthodox
         size = 1960
     }
-	
-	serfs = {
+
+    serfs = {
         culture = gypsy
         religion = orthodox
         size = 960
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 224
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 1122
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 224
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 12716
     }
 }
 #Transylvania Region (2060000)
@@ -775,7 +859,7 @@
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 225
+        size = 148
     }
 
     bureaucrats = {
@@ -787,13 +871,13 @@
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1200
+        size = 792
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 250
+        size = 165
     }
 
     serfs = {
@@ -933,8 +1017,8 @@
         religion = protestant
         size = 3320
     }
-	
-	serfs = {
+
+    serfs = {
         culture = gypsy
         religion = orthodox
         size = 3960
@@ -975,31 +1059,49 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 84
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 448
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 93
+    }
 }
 #Gyulafehervar/Alba Iulia (316000/79000 POPS)
 655 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 525
+        size = 346
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 2800
+        size = 1848
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 550
+        size = 363
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 25125
+        size = 16582
     }
 
     farmers = {
@@ -1133,31 +1235,55 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 196
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 1047
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 205
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 9397
+    }
 }
 #Deva (252000/63000 POPS)
 656 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 425
+        size = 280
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 2500
+        size = 1650
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 500
+        size = 330
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 31575
+        size = 20839
     }
 
     serfs = {
@@ -1249,8 +1375,8 @@
         religion = protestant
         size = 1850
     }
-	
-	serfs = {
+
+    serfs = {
         culture = gypsy
         religion = orthodox
         size = 1500
@@ -1279,13 +1405,37 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 159
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 935
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 187
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 11809
+    }
 }
 #Nagyszeben/Sibiu (276000/69000 POPS)
 657 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 350
+        size = 231
     }
 
     bureaucrats = {
@@ -1297,13 +1447,13 @@
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1800
+        size = 1188
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 350
+        size = 231
     }
 
     serfs = {
@@ -1443,25 +1593,43 @@
         religion = jewish
         size = 1075
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 130
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 673
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 130
+    }
 }
 #Brasso/Brasov (168000/42000 POPS)
 659 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 225
+        size = 148
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1250
+        size = 825
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 250
+        size = 165
     }
 
     serfs = {
@@ -1589,24 +1757,42 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 84
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 467
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 93
+    }
 }
 3422 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 225
+        size = 148
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1250
+        size = 825
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 25
+        size = 16
     }
 
     serfs = {
@@ -1734,25 +1920,43 @@
         religion = jewish
         size = 117
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 84
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 467
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 9
+    }
 }
 #Udvarhely (228000/57000 POPS)
 660 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 100
+        size = 66
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 400
+        size = 264
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 100
+        size = 66
     }
 
     serfs = {
@@ -1874,31 +2078,49 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 37
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 149
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 37
+    }
 }
 #Beszterce (300000/75000 POPS)
 661 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 500
+        size = 330
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 2500
+        size = 1650
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 500
+        size = 330
     }
 
     farmers = {
         culture = romanian
         religion = orthodox
-        size = 28885
+        size = 19064
     }
 
     serfs = {
@@ -2002,8 +2224,8 @@
         religion = protestant
         size = 7025
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gypsy
         religion = orthodox
         size = 685
@@ -2032,25 +2254,49 @@
         religion = jewish
         size = 1175
     }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 187
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 935
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 187
+    }
+
+    farmers = {
+        culture = hungarian
+        religion = protestant
+        size = 10803
+    }
 }
 #Targu Mures (344000/86000 POPS)
 2533 = {
     clergymen = {
         culture = romanian
         religion = orthodox
-        size = 250
+        size = 165
     }
 
     artisans = {
         culture = romanian
         religion = orthodox
-        size = 1300
+        size = 858
     }
 
     soldiers = {
         culture = romanian
         religion = orthodox
-        size = 300
+        size = 198
     }
 
     serfs = {
@@ -2177,6 +2423,24 @@
         culture = ashkenazi
         religion = jewish
         size = 1175
+    }
+
+    clergymen = {
+        culture = hungarian
+        religion = protestant
+        size = 93
+    }
+
+    artisans = {
+        culture = hungarian
+        religion = protestant
+        size = 486
+    }
+
+    soldiers = {
+        culture = hungarian
+        religion = protestant
+        size = 112
     }
 }
 #Bukovina Region (204000) #See Ukraine.txt for balance of region
@@ -2312,6 +2576,8 @@
 #Wallachia Region (1228000)
 #under the rule of Wallachia in 1836
 #Bucharest (260000/65000 POPS)
+######Jews
+########
 664 = {
     aristocrats = {
         culture = romanian
@@ -2361,7 +2627,6 @@
         size = 8967
     }
 
-    ######Jews
     aristocrats = {
         culture = sephardic
         religion = jewish
@@ -2397,7 +2662,6 @@
         religion = jewish
         size = 1000
     }
-    ########
 }
 #Tirgu Jiu (172000/43000 POPS)
 665 = {
@@ -2652,6 +2916,8 @@
 #Moldavia Region (1356000)
 #under the rule of Moldavia in 1836
 #Iasi (468000/117000 POPS)
+######Jews
+########
 670 = {
     aristocrats = {
         culture = romanian
@@ -2719,7 +2985,6 @@
         size = 8000
     }
 
-    ######Jews
     aristocrats = {
         culture = ashkenazi
         religion = jewish
@@ -2755,7 +3020,6 @@
         religion = jewish
         size = 1000
     }
-    ########
 
     slaves = {
         culture = gypsy
@@ -2988,8 +3252,8 @@
         religion = orthodox
         size = 11550
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gypsy
         religion = orthodox
         size = 500
@@ -3072,8 +3336,8 @@
         religion = sunni
         size = 12700
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gypsy
         religion = sunni
         size = 800
@@ -3121,8 +3385,8 @@
         religion = orthodox
         size = 1810
     }
-	
-	farmers = {
+
+    farmers = {
         culture = romanian
         religion = orthodox
         size = 105
@@ -3253,8 +3517,8 @@
         religion = sunni
         size = 9200
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gypsy
         religion = orthodox
         size = 300
@@ -3268,7 +3532,7 @@
 }
 #Tulcea (40000/10000 POPS)
 675 = {
-	soldiers = {
+    soldiers = {
         culture = romanian
         religion = orthodox
         size = 360
@@ -3291,20 +3555,20 @@
         religion = orthodox
         size = 2540
     }
-	
-	farmers = {
+
+    farmers = {
         culture = gypsy
         religion = orthodox
         size = 150
     }
-	
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 2600
-	}
-	
-	farmers = {
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 2600
+    }
+
+    farmers = {
         culture = gypsy
         religion = orthodox
         size = 70
@@ -3321,21 +3585,21 @@
         religion = sunni
         size = 100
     }
-	
-	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 4000
-	}
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 4000
+    }
 }
 3372 = {
-	aristocrats = {
+    aristocrats = {
         culture = turkish
         religion = sunni
         size = 100
     }
-	
-	soldiers = {
+
+    soldiers = {
         culture = romanian
         religion = orthodox
         size = 840
@@ -3358,14 +3622,14 @@
         religion = orthodox
         size = 6270
     }
-	
-	farmers = {
-		culture = turkish
-		religion = sunni
-		size = 1570
-	}
-	
-	soldiers = {
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 1570
+    }
+
+    soldiers = {
         culture = ukrainian
         religion = orthodox
         size = 100
@@ -3388,14 +3652,14 @@
         religion = orthodox
         size = 2825
     }
-	
-	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 4000
-	}
-	
-	slaves = {
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 4000
+    }
+
+    slaves = {
         culture = tatar
         religion = orthodox
         size = 3000
