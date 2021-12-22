@@ -18,263 +18,314 @@ BUL = {
 
 
 army = {
-    name = "Mansure Army"
-    location = 860
+    name = "I. Armee"
+    location = 726
     regiment = {
-        name= "1. Tümeni Firkasi"
-        type = infantry
-        home = 860
-    }
-leader = {
-    name = "von Heideck"
-    type = land
-    date="1833.1.1"
-    personality = romantic
-    background = poet
-    prestige = 0.1
-}
-
-leader = {
-    name = "Demetrios Kalergis"
-    type = land
-    date="1836.1.1"
-    personality = impetuous
-    background = cavalry_school
-}
-
-leader = {
-    name = "Ioannis Kolokotronis"
-    type = land
-    date="1833.1.1"
-    personality = aweless
-    background = powerful_friends
-    prestige = 0.1
-}
-
-leader = {
-    name = "Antonios Kriezis"
-    type = sea
-    date="1836.1.1"
-    personality = audacious
-    background = expert_raider
-}
-
-army = {
-    name = "Stratós Thessalías"
-    location = 860
-    regiment = {
-        name= "1. Taxiarchia Pezikou"
-        type = 
-        home = 860
+        name= "1.1. Kavalleriedivision"
+        type = cuirassier
+        home = 619
     }
 
     regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = guard
-        home = 836
+        name= "2.1. Kavalleriedivision"
+        type = cuirassier
+        home = 639
     }
+
     regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = guard
-        home = 836
-		
-    }regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = guard
-        home = 836
-		
-    }regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = guard
-        home = 836
-		
-    }regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = guard
-        home = 836
+        name= "3.1. Kavalleriedivision"
+        type = cuirassier
+        home = 631
     }
+
     regiment = {
-        name= "3. Taxiarchia Pezikou"
+        name= "2.2. Infanteriedivision"
         type = infantry
-        home = 860
+        home = 729
     }
-	regiment = {
-        name= "3. Taxiarchia Pezikou"
+
+    regiment = {
+        name= "3.2. Infanteriedivision"
         type = infantry
-        home = 860
-		
-    }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = infantry
-        home = 860
-		
-    }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = infantry
-        home = 835
-		
-    }regiment = {
-        name= "2. Taxiarchia Pezikou"
-        type = hussar
-        home = 835
+        home = 771
     }
-    }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = hussar
-        home = 835
-		
-    }   }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = hussar
-        home = 835
-		
-    }   }regiment = {
-        name= "3. Taxiarchia Pezikou"
+
+    regiment = {
+        name= "1.3. Infanteriedivision"
+        type = infantry
+        home = 618
+    }
+
+    regiment = {
+        name= "2.3. Infanteriedivision"
+        type = infantry
+        home = 773
+    }
+
+    regiment = {
+        name= "3.3. Infanteriedivision"
         type = artillery
-        home = 860
-		
-    }
-	}   }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = artillery
-        home = 835
-    }
-	}   }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = artillery
-        home = 835
-    }
-	}   }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = artillery
-        home = 835
-		
-    }
-	}   }regiment = {
-        name= "3. Taxiarchia Pezikou"
-        type = artillery
-        home = 835
-		
-    }
-    regiment = {
-        name= "4. Taxiarchia Pezikou"
-        type = infantry
-        home = 838
-    }
-
-    regiment = {
-        name= "5. Taxiarchia Pezikou"
-        type = infantry
-        home = 839
+        home = 728
     }
 }
 
 army = {
-    name = "Stratós Epeírou"
-    location = 837
+    name = "II. Armee"
+    location = 702
     regiment = {
-        name= "6. Taxiarchia Pezikou"
+        name= "1.6. Infanteriedivision"
         type = infantry
-        home = 837
+        home = 627
     }
 
     regiment = {
-        name= "7. Taxiarchia Pezikou"
+        name= "2.6. Infanteriedivision"
         type = infantry
-        home = 841
+        home = 640
     }
 
     regiment = {
-        name= "8. Taxiarchia Pezikou"
+        name= "3.6. Infanteriedivision"
         type = infantry
-        home = 839
+        home = 705
     }
 
     regiment = {
-        name= "1st Bavarian Legion"
+        name= "1.7. Infanteriedivision"
         type = infantry
-        home = 839
+        home = 630
+    }
+
+    regiment = {
+        name= "2.7. Infanteriedivision"
+        type = infantry
+        home = 643
+    }
+
+    regiment = {
+        name= "3.7. Infanteriedivision"
+        type = infantry
+        home = 702
+    }
+
+}
+
+army = {
+    name = "III. Armee"
+    location = 860
+    regiment = {
+        name= "1.8. Infanteriedivision"
+        type = infantry
+        home = 628
+    }
+
+    regiment = {
+        name= "2.8. Infanteriedivision"
+        type = infantry
+        home = 642
+    }
+
+    regiment = {
+        name= "3.8. Infanteriedivision"
+        type = infantry
+        home = 768
+    }
+
+    regiment = {
+        name= "1.9. Infanteriedivision"
+        type = infantry
+        home = 624
+    }
+
+    regiment = {
+        name= "2.9. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "3.9. Infanteriedivision"
+        type = infantry
+        home = 633
+    }
+
+}
+
+army = {
+    name = "IV. Armee"
+    location = 729
+    regiment = {
+        name= "1.4. Infanteriedivision"
+        type = infantry
+        home = 612
+    }
+
+    regiment = {
+        name= "2.4. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "3.4. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "1.5. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "2.5. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "3.5. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+}
+
+army = {
+    name = "V. Armee"
+    location = 860
+    regiment = {
+        name= "1.2. Kavalleriedivision"
+        type = cuirassier
+        home = 860
+    }
+
+    regiment = {
+        name= "2.2. Kavalleriedivision"
+        type = cuirassier
+        home = 860
+    }
+
+    regiment = {
+        name= "3.2. Kavalleriedivision"
+        type = cuirassier
+        home = 860
+    }
+
+    regiment = {
+        name= "1.1. Infanteriedivision"
+        type = infantry
+        home = 613
+    }
+
+    regiment = {
+        name= "2.1. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "3.1. Infanteriedivision"
+        type = infantry
+        home = 860
+    }
+
+    regiment = {
+        name= "1.2. Infanteriedivision"
+        type = infantry
+        home = 616
     }
 }
 
 navy = {
-    name = "Hellenic Navy"
-    location = 860
-
+    name = "Austrian Imperial Navy"
+    location = 729
     ship = {
-        name= "1st Clipper Transport"
+        name= "1. Klipperflottille"
         type = clipper_transport
     }
 
     ship = {
-        name= "2nd Clipper Transport"
+        name= "2. Klipperflottille"
         type = clipper_transport
     }
 
     ship = {
-        name= "1st Steam Transport"
-        type = steam_transport
-    }
-
-    ship = {
-        name= "2nd Steam Transport"
-        type = steam_transport
-    }
-
-    ship = {
-        name= "Hellas"
-        type = frigate
-    }
-
-    ship = {
-        name= "Navarino"
-        type = frigate
-    }
-
-    ship = {
-        name= "Psara"
-        type = frigate
-    }
-
-    ship = {
-        name= "Heratos"
-        type = frigate
+        name= "3. Klipperflottille"
+        type = clipper_transport
     }
 
 }
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-clipper_design = 1
-steamers = 1
-naval_plans = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-experimental_railroad = 1
-basic_chemistry = 1
-interchangeable_parts = 1
-battleship_column_doctrine = 1
-naval_professionalism = 1
-fire_control_systems = 1
-stock_exchange = 1
-ad_hoc_money_bill_printing = 1
-late_classical_theory = 1
-market_structure = 1
-high_pressure_steam_engine = 1
+
+leader = {
+    name = "Josef Radetzky"
+    picture = aus_gen_radetzky
+    date = 1835.1.1
+    type = land
+    personality = implacable
+    background = school_of_the_bayonet
+    prestige = 0.8
+}
+
+leader = {
+    name = "Julius von Haynau"
+    date = 1835.1.1
+    type = land
+    personality = wrathful
+    background = natural_born_leader
+    prestige = 0.5
+}
+
+leader = {
+    name = "Eugen Wratislaw von Mittrowitz"
+    date = 1835.1.1
+    type = land
+    personality = active_p
+    background = cavalry_school
+    prestige = 0.4
+}
+
+leader = {
+    name = "Heinrich von Hess"
+    date = 1836.1.1
+    type = land
+    personality = au_fait
+    background = generals_aide
+    prestige = 0.5
+}
+
+leader = {
+    name = "Friedrich of Hohenzollern-Hechingen"
+    date = 1832.1.1
+    type = land
+    personality = bold
+    background = drillmaster
+    prestige = 0.4
+}
+
+leader = {
+    name = "Alfred von Windischgraetz"
+    date = 1832.1.1
+    type = land
+    personality = arrogant
+    background = aristocrat
+    prestige = 0.2
+}
+
+leader = {
+    name = "Erzherzog Albrecht"
+    date = 1836.1.1
+    type = land
+    personality = active_p
+    background = aristocrat
+    prestige = 0.3
+}
+
+leader = {
+    name = "Paolucci delle Roncole"
+    date = 1824.1.1
+    type = sea
+    personality = competent
+    background = aristocrat
+    prestige = 0.2
+}
