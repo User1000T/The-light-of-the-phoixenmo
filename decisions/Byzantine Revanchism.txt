@@ -97,7 +97,7 @@ enact_ROMAN_alis_reforms = {
             set_country_flag = Roman_alis_reforms_enacted
 			remove_country_modifier = Jizya_Egypt
             prestige = 5
-            treasury = 5000
+            treasury = 50000
             small_arms = 20
             regular_clothes = 50
             any_owned = BYZ
@@ -107,7 +107,109 @@ enact_ROMAN_alis_reforms = {
                 consciousness = 4
                 ideology = {
                     value = liberal
-                    factor = 0.2
+                }   factor = 0.2
+				SER = {
+                all_core = {
+                 add_core = BYZ
+                }
+                 }
+            BUL = {
+                all_core = {
+			   add_core = BYZ
+			   }
+                }
+            }
+        }
+    }
+	
+	
+	
+	Syriain_Conuqest = {
+       picture= Conquest_Syria
+       potential = {
+            tag = BYZ
+            civilized = yes
+            NOT = {
+                has_country_flag = conquest_syria
+            }
+        }
+		
+        allow = { allow = { 
+		          state_n_government = 1
+                  war = no
+                  is_greater_power = yes
+                  all_core = { owned_by = THIS } 
+				  prestige = 50
+		              }
+		             effect = {
+		       set_country_flag = conquest_syria
+			   set_country_flag = conquest_egypt
+			   add_core = 887 
+			   add_core = 888
+			   add_core = 889
+			   add_core = 890
+			   add_core = 891
+			   add_core = 892
+			   add_core = 893
+			   add_core = 898
+			   add_core = 899
+			   add_core = 2414
+			   add_core = 3279
+			   add_core = 3293
+			   add_core = 3362
+			   add_core = 3530
+			   add_core = 3533
+			   add_core = 3537
+			   PLS = {
+                all_core = {
+                    add_core = BYZ
+                }
+            }
+            LBN = {
+                all_core = {
+                    add_core = BYZ
+                }
+            }
+            SYR = {
+                all_core = {
+			   add_core = BYZ
+			   }
+            JOR = {
+                all_core = {
+			   add_core = BYZ
+                }
+            }
+        }
+    }
+           }	
+			  {
+			  
+	Egypt_conquest = {
+       picture= conquest_egypt
+	   has_country_flag = conquest_egypt
+       potential = {
+            tag = BYZ
+            civilized = yes
+            NOT = {
+                has_country_flag = victory_egypt
+            }
+        }
+		
+        allow = { allow = { 
+		          nationalism_n_imperialism = 1
+                  war = no
+                  is_greater_power = yes
+                  all_core = { owned_by = THIS } 
+				  prestige = 125
+		              }
+		             effect = {
+		       set_country_flag = victory_egypt
+			   EGY = {
+                all_core = {
+                    add_core = BYZ
+                }
+            }
+           
                 }
             }
         }
