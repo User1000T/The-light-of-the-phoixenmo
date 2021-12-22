@@ -1,7 +1,0 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = HDJ
-trade_goods = fish
-terrain = coastal_desert
-life_rating = 32

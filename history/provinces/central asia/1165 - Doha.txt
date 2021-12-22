@@ -1,8 +1,0 @@
-owner = ARA
-controller = ARA
-add_core = ARA
-add_core = BHR
-add_core = QAT
-trade_goods = fish
-terrain = doha
-life_rating = 34
